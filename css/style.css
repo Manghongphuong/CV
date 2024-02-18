@@ -117,6 +117,7 @@ h2{
     position: absolute;
     width: 13px;
     height: 13px;
+    top: 5px;
     background-color: black;
     content: '';
     border-radius: 50%;
