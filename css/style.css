@@ -26,7 +26,7 @@ body{
 }
 .name{
     padding-left: 30px;
-    border-left: 1px solid black;
+/*     border-left: 1px solid black; */
 }
 .name h1{
     font-weight: 300;
@@ -39,7 +39,7 @@ body{
     letter-spacing: 3px;
 }
 .name .contact{
-    padding: 0;
+/*     padding: 0; */
     list-style: none;
 }
 .name .contact span{
@@ -51,7 +51,7 @@ body{
     border-radius: 50%;
     text-align: center;
     font-size: small;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 .name .contact li{
     padding: 5px 0;
@@ -67,7 +67,7 @@ body{
 }
 .intro{
     padding-left: 30px;
-    border-left: 1px solid black;
+/*     border-left: 1px solid black; */
     text-align: justify;
 }
 h2{
@@ -97,7 +97,7 @@ h2{
 .project{
     padding-left: 30px;
     text-align: justify;
-    border-left: 1px solid black;
+/*     border-left: 1px solid black; */
 }
 .project .web{
     color: green;
@@ -110,9 +110,9 @@ h2{
     font-weight: 500;
     padding: 10px 0;
 }
-.project .item{
+/* .project .item{
     position: relative;
-}
+} */
 .project .item::before{
     position: absolute;
     width: 13px;
